@@ -1,6 +1,6 @@
 const byteSize = (str) => {
 	byteSize='hello world';
-	console.log("bytesize");
+	console.log("byteSize");
   // write your code here
 };
 
